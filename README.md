@@ -259,8 +259,3 @@ The app opens in your browser at `http://localhost:8501`.
 3. **Type a question** in the main area → click **🚀 Get Answer**
 4. View the AI-generated answer and expand source chunks to see the exact passages used
 
----
-
-## 📝 License
-
-MIT
